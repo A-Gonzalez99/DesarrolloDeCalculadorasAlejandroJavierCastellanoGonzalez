@@ -11,9 +11,34 @@ El jetpack compose consiste en:
 - Dos TextField para ingresar los números.
 - Un Button para realizar la operación de suma.
 - Un Text para mostrar el resultado.
-![alt text](https://i.ibb.co/fHXmS9j/Screenshot-20250116-182509.png)
-![alt text](https://i.ibb.co/Bf8h23G/Screenshot-20250116-182545.png)
-![alt text](https://i.ibb.co/JyjGkwT/Screenshot-20250116-182604.png)
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imágenes en fila</title>
+    <style>
+        .imagenes {
+            display: flex;
+            justify-content: space-between;
+        }
+        .imagenes img {
+            width: 100px; /* Ajusta el tamaño aquí */
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="imagenes">
+        <img src="https://i.ibb.co/fHXmS9j/Screenshot-20250116-182509.png" alt="Imagen 1">
+        <img src="https://i.ibb.co/Bf8h23G/Screenshot-20250116-182545.png" alt="Imagen 2">
+        <img src="https://i.ibb.co/JyjGkwT/Screenshot-20250116-182604.png" alt="Imagen 3">
+    </div>
+
+</body>
+</html>
+
 
 Calculadora en Java
 
