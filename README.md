@@ -14,18 +14,18 @@ implementando la lógica de manera declarativa.
 
 <h2>Cómo Ejecutar la Aplicación</h2>
 1. Clona o descarga este repositorio a tu máquina local. <br>
-```
-git clone https://github.com/A-Gonzalez99/DesarrolloDeCalculadorasAlejandroJavierCastellanoGonzalez.git
-```
-2. Abre el Android Studio.
-3. Selecciona la calculadora que deseas usar (Kotlin o Java)
-4. Haz clic en Run en Android Studio para compilar y ejecutar la app en un emulador o en un dispositivo físico.
+
+git clone https://github.com/A-Gonzalez99/DesarrolloDeCalculadorasAlejandroJavierCastellanoGonzalez.git <br>
+
+2. Abre el Android Studio.<br>
+3. Selecciona la calculadora que deseas usar (Kotlin o Java)<br>
+4. Haz clic en Run en Android Studio para compilar y ejecutar la app en un emulador o en un dispositivo físico.<br>
 
 <h2>Calculadora en Kotlin</h2>
 <h3>El jetpack compose consiste en:</h3>
-- Dos TextField para ingresar los números.
-- Un Button para realizar la operación de suma.
-- Un Text para mostrar el resultado.
+- Dos TextField para ingresar los números.<br>
+- Un Button para realizar la operación de suma.<br>
+- Un Text para mostrar el resultado.<br>
 <p align="center">
   <img src="https://i.ibb.co/fHXmS9j/Screenshot-20250116-182509.png" width="200" />
   <img src="https://i.ibb.co/Bf8h23G/Screenshot-20250116-182545.png" width="200" />
@@ -35,6 +35,6 @@ git clone https://github.com/A-Gonzalez99/DesarrolloDeCalculadorasAlejandroJavie
 
 <h2>Calculadora en Java</h2>
 <h3>El layout xml consiste en:</h3>
-- Dos TextInputEditText para ingresar los números.
-- Un Button para realizar la operación de suma.
-- Un TextView para mostrar el resultado.
+- Dos TextInputEditText para ingresar los números.<br>
+- Un Button para realizar la operación de suma.<br>
+- Un TextView para mostrar el resultado.<br>
