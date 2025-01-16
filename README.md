@@ -12,7 +12,7 @@ Compose utiliza un enfoque más flexible y sencillo para manejar el estado
 y actualizar la UI con funciones como `remember` y `mutableStateOf`,
 implementando la lógica de manera declarativa.
 
-##Cómo Ejecutar la Aplicación
+<h2>Cómo Ejecutar la Aplicación</h2>
 1. Clona o descarga este repositorio a tu máquina local.
 git clone 
 ```
@@ -22,8 +22,8 @@ https://github.com/A-Gonzalez99/DesarrolloDeCalculadorasAlejandroJavierCastellan
 3. Selecciona la calculadora que deseas usar (Kotlin o Java)
 4. Haz clic en Run en Android Studio para compilar y ejecutar la app en un emulador o en un dispositivo físico.
 
-##Calculadora en Kotlin
-###El jetpack compose consiste en:
+<h2>Calculadora en Kotlin</h2>
+<h3>El jetpack compose consiste en:</h3>
 - Dos TextField para ingresar los números.
 - Un Button para realizar la operación de suma.
 - Un Text para mostrar el resultado.
@@ -34,8 +34,8 @@ https://github.com/A-Gonzalez99/DesarrolloDeCalculadorasAlejandroJavierCastellan
 </p>
 
 
-##Calculadora en Java
-###El layout xml consiste en:
+<h2>Calculadora en Java</h2>
+<h3>>El layout xml consiste en:</h3>
 - Dos TextInputEditText para ingresar los números.
 - Un Button para realizar la operación de suma.
 - Un TextView para mostrar el resultado.
