@@ -35,7 +35,7 @@ https://github.com/A-Gonzalez99/DesarrolloDeCalculadorasAlejandroJavierCastellan
 
 
 <h2>Calculadora en Java</h2>
-<h3>>El layout xml consiste en:</h3>
+<h3>El layout xml consiste en:</h3>
 - Dos TextInputEditText para ingresar los números.
 - Un Button para realizar la operación de suma.
 - Un TextView para mostrar el resultado.
