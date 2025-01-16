@@ -11,13 +11,10 @@ El jetpack compose consiste en:
 - Dos TextField para ingresar los números.
 - Un Button para realizar la operación de suma.
 - Un Text para mostrar el resultado.
-![alt text](https://ibb.co/P9GPCvy)
-![alt text](https://ibb.co/51qQh4k)
-![alt text](https://ibb.co/vkc2Bh0)
+![alt text](https://i.ibb.co/fHXmS9j/Screenshot-20250116-182509.png)
+![alt text](https://i.ibb.co/Bf8h23G/Screenshot-20250116-182545.png)
+![alt text](https://i.ibb.co/JyjGkwT/Screenshot-20250116-182604.png)
 
-https://ibb.co/P9GPCvy
-https://ibb.co/51qQh4k
-https://ibb.co/vkc2Bh0
 Calculadora en Java
 
 El layout xml consiste en:
