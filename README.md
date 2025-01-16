@@ -14,7 +14,7 @@ implementando la lógica de manera declarativa.
 
 <h2>Cómo Ejecutar la Aplicación</h2>
 1. Clona o descarga este repositorio a tu máquina local. <br>
-git clone https://github.com/A-Gonzalez99/DesarrolloDeCalculadorasAlejandroJavierCastellanoGonzalez.git <br>
+<pre> git clone https://github.com/A-Gonzalez99/DesarrolloDeCalculadorasAlejandroJavierCastellanoGonzalez.git <code> <br>
 2. Abre el Android Studio.<br>
 3. Selecciona la calculadora que deseas usar (Kotlin o Java)<br>
 4. Haz clic en Run en Android Studio para compilar y ejecutar la app en un emulador o en un dispositivo físico.<br>
