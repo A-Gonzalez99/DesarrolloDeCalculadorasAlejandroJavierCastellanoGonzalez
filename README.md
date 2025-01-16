@@ -1,6 +1,6 @@
 
 <h1>Calculadoras Java y Kotlin</h1>
-Esta calculadora está desarrollada en **Java** 
+Esta calculadora está desarrollada en <strong>Java</strong>
 para Android utilizando un diseño de interfaz de usuario (UI) 
 basado en **XML**, donde el archivo XML define los componentes 
 visuales (botones, pantallas) y su disposición, mientras que el 
@@ -9,7 +9,7 @@ La otra versión de la calculadora se desarrolla en **Kotlin** usando **Jetpack 
 una biblioteca moderna y declarativa que facilita la creación de UI. 
 A diferencia de la versión con Java y XML, 
 Compose utiliza un enfoque más flexible y sencillo para manejar el estado
-y actualizar la UI con funciones como `remember` y `mutableStateOf`,
+y actualizar la UI con funciones como mutableStateOf,
 implementando la lógica de manera declarativa.
 
 <h2>Cómo Ejecutar la Aplicación</h2>
