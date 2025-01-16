@@ -6,15 +6,21 @@ git clone https://github.com/A-Gonzalez99/DesarrolloDeCalculadorasAlejandroJavie
 4. Haz clic en Run en Android Studio para compilar y ejecutar la app en un emulador o en un dispositivo físico.
 
 Calculadora en Kotlin
-Layout
-El layout consiste en:
-- Dos TextFields para ingresar los números.
-- Un botón para realizar la operación de suma.
-- Una etiqueta para mostrar el resultado.
 
+El jetpack compose consiste en:
+- Dos TextField para ingresar los números.
+- Un Button para realizar la operación de suma.
+- Un Text para mostrar el resultado.
+![alt text](https://ibb.co/P9GPCvy)
+![alt text](https://ibb.co/51qQh4k)
+![alt text](https://ibb.co/vkc2Bh0)
+
+https://ibb.co/P9GPCvy
+https://ibb.co/51qQh4k
+https://ibb.co/vkc2Bh0
 Calculadora en Java
-Layout
-El layout consiste en:
-- Dos elementos EditText para ingresar los números.
+
+El layout xml consiste en:
+- Dos TextInputEditText para ingresar los números.
 - Un Button para realizar la operación de suma.
 - Un TextView para mostrar el resultado.
